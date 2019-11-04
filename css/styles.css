@@ -1,0 +1,37 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	margin-top: 70px;
+}
+#header-nav{
+	border: 0px;
+	border-radius: 0px;
+}
+.menu h1{
+	text-align: center;
+	text-transform: uppercase;
+	color: #5F5E5E;
+}
+.section {
+	background-color: #ddd;
+	padding: 10px;
+	border: solid black 1px;
+	position: relative;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-bottom: 30px;
+}
+.section h2{
+	text-align: center;
+	color: #610606;
+}
+footer{
+	height: 50px;
+	border-top: solid #C9C5C5;
+	background-color: #EEECEC;
+}
+footer p{
+	text-align: center;
+	padding-top: 15px;
+}
